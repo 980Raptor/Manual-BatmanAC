@@ -10,3 +10,5 @@ A Manual Archipelago Integration for Batman Arkham City.
 **Items:**
 - All Gadgets (Batarangs and Remote Batarangs are Progressive)
 - All Level Up Upgrades
+- Access Keys (Courthouse, Church, Steel Mill, Subway, etc.)
+- Municipal Codes & Tyger Codes
