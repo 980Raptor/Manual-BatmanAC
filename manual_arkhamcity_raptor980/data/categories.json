@@ -1,0 +1,64 @@
+{
+  "Riddler": {
+    "yaml_option": ["riddler_sanity"],
+    "hidden": true
+  },
+  "Physical Challenges": {
+    "yaml_option": ["physical_challenges"],
+    "sort-key": "19"
+  },
+  "Main Story": {
+    "sort-key": "01"
+  },
+  "Azrael - Watcher in the Wings": {
+    "sort-key": "02"
+  },
+  "Bane - Fragile Alliance": {
+    "sort-key": "03"
+  },
+  "A.R. Training": {
+    "sort-key": "04"
+  },
+  "Deadshot - Shot in the Dark": {
+    "sort-key": "05"
+  },
+  "Hush - Identity Theft": {
+    "sort-key": "06"
+  },
+  "Riddler - Enigma Conundrum": {
+    "sort-key": "07"
+  },
+  "Zsasz - Cold Call Killer": {
+    "sort-key": "08"
+  },
+  "Misc": {
+    "sort-key": "09"
+  },
+  "The Bowery Riddler": {
+    "sort-key": "10"
+  },
+  "Park Row Riddler": {
+    "sort-key": "11"
+  },
+  "Amusement Mile Riddler": {
+    "sort-key": "12"
+  },
+  "Industrial District Riddler": {
+    "sort-key": "13"
+  },
+  "Subway Riddler": {
+    "sort-key": "14"
+  },
+  "Museum Riddler": {
+    "sort-key": "15"
+  },
+  "Wonder City Riddler": {
+    "sort-key": "16"
+  },
+  "Steel Mill Riddler": {
+    "sort-key": "17"
+  },
+    "Breakables": {
+    "sort-key": "18"
+  }
+}

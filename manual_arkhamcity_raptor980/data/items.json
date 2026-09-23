@@ -1,0 +1,400 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "2",
+      "name": "Progressive Batarang",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Batclaw",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Explosive Gel",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cryptographic Sequencer",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Remote Electrical Charge",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Disruptor",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Line Launcher",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Freeze Blast",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mine Detonator",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Smoke Pellet",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Freeze Cluster Grenade",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Lvl Up - Progressive Ballistic Armor",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": "4",
+      "name": "Lvl Up - Progressive Combat Armor",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Shockwave Attack",
+      "category": [
+        "Level Up"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Glide Boost Attack",
+      "category": [
+        "Level Up"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Special Combo Bat Swarm",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Special Combo Multiple Takedown",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Special Combo Disarm and Destroy",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Critical Strikes",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Special Combo Boost",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - FreeFlow Focus",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - FreeFlow Power Gadgets",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Batclaw Disarm",
+      "category": [
+        "Level Up"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Sonic Batarang",
+      "category": [
+        "Level Up"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Sonic Shock Batarang",
+      "category": [
+        "Level Up"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Cryptographic Range Amplifier",
+      "category": [
+        "Level Up",
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Cryptographic Power Amplifier",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Blade Dodge Takedown",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Heat Signature Conceal",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Disruptor - Firearm Jammer",
+      "category": [
+        "Level Up",
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Line Launcher Tightrope",
+      "category": [
+        "Level Up",
+        "Gadgets"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Freeze Proximity Mine (Upgrade)",
+      "category": [
+        "Level Up"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Lvl Up - Progressive Ballistic Armor (Catwoman)",
+      "category": [
+        "Level Up"
+      ],
+      "filler": true
+    },
+    {
+      "count": 2,
+      "name": "Lvl Up - Progressive Combat Armor (Catwoman)",
+      "category": [
+        "Level Up"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Special Combo Whiplash (Catwoman)",
+      "category": [
+        "Level Up"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Lvl Up - Special Combo Whip Trip (Catwoman)",
+      "category": [
+        "Level Up"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Krank Co. Toys Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Courthouse Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Church Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Steel Mill Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "GCPD Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Museum Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Subway Station Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zsasz's Hideout Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wonder City Key",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tyger Codes",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Municipal Codes",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 247,
+      "name": "Riddler Trophy",
+      "category": [
+        ""
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Enigma Machine",
+      "category": [
+        "Gadgets"
+      ],
+      "progression": true
+    }
+  ]
+}
