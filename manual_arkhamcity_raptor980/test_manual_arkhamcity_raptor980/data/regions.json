@@ -1,0 +1,86 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Overworld": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "TB": {
+    "connects_to": [
+      "PR",
+      "Subway"
+    ],
+    "requires": ""
+  },
+  "PR": {
+    "connects_to": [
+      "TB",
+      "AM"
+    ],
+    "requires": ""
+  },
+  "AM": {
+    "connects_to": [
+      "PR",
+      "ID"
+    ],
+    "requires": ""
+  },
+  "ID": {
+    "connects_to": [
+      "AM",
+      "Subway"
+    ],
+    "requires": ""
+  },
+  "Subway": {
+    "connects_to": [
+      "TB",
+      "ID"
+    ],
+    "requires": ""
+  },
+  "Court": {
+    "connects_to": [],
+    "requires": "|Courthouse Key|"
+  },
+  "Church": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Smoke Pellet|"
+  },
+  "SM": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang| AND |Remote Electrical Charge| AND |Smoke Pellet|"
+  },
+  "GCPD": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Municipal Codes| AND |Smoke Pellet|"
+  },
+  "Museum": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Smoke Pellet|"
+  },
+  "PostMus": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Line Launcher| AND |Smoke Pellet|"
+  },
+  "Wonder": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Line Launcher| AND |Wonder City Key| AND |Smoke Pellet|"
+  },
+  "PostWon": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Line Launcher| AND |Wonder City Key| AND |Smoke Pellet|"
+  },
+  "Freeze": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Line Launcher| AND |Wonder City Key| AND |Freeze Blast| AND |Smoke Pellet|"
+  },
+  "SM2": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Line Launcher| AND |Wonder City Key| AND |Freeze Blast| AND |Smoke Pellet|"
+  },
+  "Tyger": {
+    "connects_to": [],
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang:2| AND |Remote Electrical Charge| AND |GCPD Key| AND |Cryptographic Sequencer| AND |Museum Key| AND |Subway Station Key| AND |Municipal Codes| AND |Disruptor| AND |Line Launcher| AND |Wonder City Key| AND |Freeze Blast| AND |Tyger Codes| AND |Smoke Pellet|"
+  }
+}
