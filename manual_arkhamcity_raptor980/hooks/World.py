@@ -63,7 +63,7 @@ def before_generate_early(world, multiworld, player):
         item = world.create_item(key_name)
         multiworld.push_precollected(item)
 
-    world.starting_district_items = keys_to_give  # remember what we granted
+    world.starting_district_items = keys_to_give
 
     return world
 
