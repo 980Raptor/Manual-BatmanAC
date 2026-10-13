@@ -1,0 +1,9 @@
+{
+  "Riddler": {
+    "yaml_option": ["riddler_sanity"],
+    "hidden": true
+  },
+  "Physical Challenges": {
+    "yaml_option": ["physical_challenges"],
+  }
+}
