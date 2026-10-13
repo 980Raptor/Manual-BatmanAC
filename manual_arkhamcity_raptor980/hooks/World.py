@@ -94,7 +94,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 
 def after_create_regions(world, multiworld, player):
-    order = ["TB", "PR", "AM", "ID"]  # must match your regions.json names exactly
+    order = ["TB", "PR", "AM", "ID"]
     unlocked_item_map = {
         "TB": "The Bowery Unlocked",
         "PR": "Park Row Unlocked",
@@ -106,7 +106,7 @@ def after_create_regions(world, multiworld, player):
     choice_region_map = {1: "TB", 2: "PR", 3: "AM", 4: "ID"}
 
     if choice == 0:
-        return world  # "None" already starts with every district's Unlocked item, no chain needed
+        return world
 
     start_index = order.index(choice_region_map[choice])
     manual_region = multiworld.get_region("Manual", player)
@@ -118,9 +118,8 @@ def after_create_regions(world, multiworld, player):
 
         target_index = order.index(target_name)
         if target_index == start_index:
-            continue  # your starting district needs no extra gating
-
-        # Grab every district strictly between start and target, plus target itself
+            continue
+            
         if target_index > start_index:
             path = order[start_index + 1 : target_index + 1]
         else:
