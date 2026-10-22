@@ -906,7 +906,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "19"
     },
     {
@@ -936,7 +936,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "22"
     },
     {
@@ -966,7 +966,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "25"
     },
     {
@@ -1026,7 +1026,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "|Cryptographic Sequencer|",
+      "requires": "|Cryptographic Sequencer| AND |The Bowery Unlocked|",
       "sort-key": "31"
     },
     {
@@ -1106,7 +1106,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "|Cryptographic Sequencer|",
+      "requires": "|Cryptographic Sequencer| AND |The Bowery Unlocked|",
       "sort-key": "39"
     },
     {
@@ -1116,7 +1116,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "40"
     },
     {
@@ -1126,7 +1126,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "41"
     },
     {
@@ -1136,7 +1136,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "42"
     },
     {
@@ -1146,7 +1146,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "43"
     },
     {
@@ -1156,7 +1156,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "44"
     },
     {
@@ -1166,7 +1166,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "45"
     },
     {
@@ -1176,7 +1176,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "46"
     },
     {
@@ -1206,7 +1206,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "49"
     },
     {
@@ -1216,7 +1216,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "50"
     },
     {
