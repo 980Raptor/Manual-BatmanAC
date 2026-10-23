@@ -770,7 +770,7 @@
       "sort-key": "05"
     },
     {
-      "name": "Trophy 1-6 (TB: SW Lower Streets Below Museum)",
+      "name": "Trophy 1-6 (TB: SW Lower Streets Below Museum Bottom)",
       "region": "TB",
       "category": [
         "The Bowery Riddler",
@@ -850,7 +850,7 @@
       "sort-key": "13"
     },
     {
-      "name": "Trophy 2-6 (TB: SW Lower Street Below Museum)",
+      "name": "Trophy 2-6 (TB: SW Lower Street Below Museum Top)",
       "region": "TB",
       "category": [
         "The Bowery Riddler",
@@ -896,7 +896,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "|Municipal Codes|",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "18"
     },
     {
@@ -1006,7 +1006,7 @@
         "The Bowery Riddler",
         "Riddler"
       ],
-      "requires": "|Municipal Codes|",
+      "requires": "|The Bowery Unlocked|",
       "sort-key": "29"
     },
     {
@@ -3951,12 +3951,12 @@
     },
     {
       "name": "Trophy 1-1 (Museum: Trophy Room Entryway)",
-      "region": "PostMus",
+      "region": "GCPD",
       "category": [
         "Museum Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|Museum Key| AND |The Bowery Unlocked|",
       "sort-key": "01"
     },
     {
