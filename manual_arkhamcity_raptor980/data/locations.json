@@ -2106,7 +2106,7 @@
         "Park Row Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|Enigma Machine|",
       "sort-key": "47"
     },
     {
@@ -2186,7 +2186,7 @@
         "Park Row Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|Enigma Machine|",
       "sort-key": "55"
     },
     {
@@ -4281,7 +4281,7 @@
     },
     {
       "name": "Challenge Row 3 Complete (Museum)",
-      "region": "Museum",
+      "region": "Freeze",
       "category": [
         "Museum Riddler",
         "Riddler"
