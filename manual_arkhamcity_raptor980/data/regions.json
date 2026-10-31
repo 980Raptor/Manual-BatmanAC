@@ -40,7 +40,7 @@
   },
   "SM": {
     "connects_to": [],
-    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang| AND |Remote Electrical Charge| AND |Smoke Pellet| AND |Park Row Unlocked| AND |Industrial District Unlocked|"
+    "requires": "|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang| AND |Remote Electrical Charge| AND |Smoke Pellet| AND |Park Row Unlocked| AND |Amusement Mile Unlocked| AND |Industrial District Unlocked|"
   },
   "GCPD": {
     "connects_to": [],
