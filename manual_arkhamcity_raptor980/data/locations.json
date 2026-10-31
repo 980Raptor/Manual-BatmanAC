@@ -1501,7 +1501,7 @@
       "category": [
         "Breakables"
       ],
-      "requires": "(|Progressive Batarang| OR |Explosive Gel|) AND |Subway Station Key|",
+      "requires": "(|Progressive Batarang| OR |Explosive Gel|) AND ({YamlCompare(starting_region == All)} OR |Subway Station Key|)",
       "sort-key": "25"
     },
     {
@@ -3306,7 +3306,7 @@
         "Subway Riddler",
         "Riddler"
       ],
-      "requires": "|Progressive Batarang:2| AND |Subway Station Key|",
+      "requires": "|Progressive Batarang:2| AND ({YamlCompare(starting_region == All)} OR |Subway Station Key|)",
       "sort-key": "06"
     },
     {
@@ -3486,7 +3486,7 @@
         "Subway Riddler",
         "Riddler"
       ],
-      "requires": "|Subway Station Key|",
+      "requires": "{YamlCompare(starting_region == All)} OR |Subway Station Key|",
       "sort-key": "24"
     },
     {
@@ -3506,7 +3506,7 @@
         "Subway Riddler",
         "Riddler"
       ],
-      "requires": "|Subway Station Key|",
+      "requires": "{YamlCompare(starting_region == All)} OR |Subway Station Key|",
       "sort-key": "26"
     },
     {
