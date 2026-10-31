@@ -191,7 +191,7 @@
     },
     {
       "name": "Rescue Mayor Sharp",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Main Story"
       ],
@@ -226,7 +226,7 @@
       "sort-key": "25"
     },
     {
-      "name": "Retrieve Confiscated Good (Catwoman)",
+      "name": "Retrieve Confiscated Goods (Catwoman)",
       "region": "SM2",
       "category": [
         "Main Story"
@@ -259,7 +259,7 @@
       "category": [
         "Main Story"
       ],
-      "requires": "",
+      "requires": "|Monarch Theater Key|",
       "sort-key": "29"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
       "name": "Titan Container (WC)",
-      "region": "Museum",
+      "region": "Wonder",
       "category": [
         "Bane - Fragile Alliance"
       ],
@@ -390,7 +390,7 @@
     },
     {
       "name": "Destroy Remaining Titan (Krank Co.)",
-      "region": "Museum",
+      "region": "Wonder",
       "category": [
         "Bane - Fragile Alliance"
       ],
@@ -417,7 +417,7 @@
     },
     {
       "name": "Azrael Spotted (TB)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Azrael - Watcher in the Wings"
       ],
@@ -448,7 +448,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "01"
     },
     {
@@ -457,7 +457,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "02"
     },
     {
@@ -466,7 +466,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "03"
     },
     {
@@ -475,7 +475,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "04"
     },
     {
@@ -484,7 +484,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "05"
     },
     {
@@ -493,7 +493,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "06"
     },
     {
@@ -502,7 +502,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked| AND |The Bowery Unlocked|",
       "sort-key": "07"
     },
     {
@@ -511,7 +511,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "08"
     },
     {
@@ -520,7 +520,7 @@
       "category": [
         "A.R. Training"
       ],
-      "requires": "",
+      "requires": "|Industrial District Unlocked|",
       "sort-key": "09"
     },
     {
@@ -534,7 +534,7 @@
     },
     {
       "name": "Deadshot Victim 2 (NE Park Row) - After Museum",
-      "region": "PostMus",
+      "region": "Museum",
       "category": [
         "Deadshot - Shot in the Dark"
       ],
@@ -579,7 +579,7 @@
     },
     {
       "name": "Hush Victim 3 (Near Ace Chemicals)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Hush - Identity Theft"
       ],
@@ -588,7 +588,7 @@
     },
     {
       "name": "Reveal Hush's Identity",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Hush - Identity Theft"
       ],
@@ -615,7 +615,7 @@
     },
     {
       "name": "Pickup Mine Detonator Upgrade",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Misc"
       ],
@@ -1010,7 +1010,7 @@
       "sort-key": "29"
     },
     {
-      "name": "Trophy 4-6 (TB: SE Near Payphone)",
+      "name": "Trophy 4-6 (TB: SE Destructible Wall Near Payphone)",
       "region": "TB",
       "category": [
         "The Bowery Riddler",
@@ -1020,7 +1020,7 @@
       "sort-key": "30"
     },
     {
-      "name": "Trophy 4-7 (TB: SE Rooftop Hacking)",
+      "name": "Trophy 4-7 (TB: SE Finnigans Building Hacking)",
       "region": "SM",
       "category": [
         "The Bowery Riddler",
@@ -1090,7 +1090,7 @@
       "sort-key": "37"
     },
     {
-      "name": "Trophy 5-6 (TB: SE Near Payphone)",
+      "name": "Trophy 5-6 (TB: SE 3 Pressure Plates Near Payphone)",
       "region": "TB",
       "category": [
         "The Bowery Riddler",
@@ -1100,7 +1100,7 @@
       "sort-key": "38"
     },
     {
-      "name": "Trophy 5-7 (TB: SE Rooftop Hacking)",
+      "name": "Trophy 5-7 (TB: SE Caged Terrace Hacking)",
       "region": "SM",
       "category": [
         "The Bowery Riddler",
@@ -1434,7 +1434,7 @@
     },
     {
       "name": "6 Joker Balloons Destroyed (AM)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Breakables"
       ],
@@ -1443,7 +1443,7 @@
     },
     {
       "name": "9 Joker Balloons Destroyed (AM)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Breakables"
       ],
@@ -1452,7 +1452,7 @@
     },
     {
       "name": "12 Joker Balloons Destroyed (AM)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Breakables"
       ],
@@ -1501,7 +1501,7 @@
       "category": [
         "Breakables"
       ],
-      "requires": "|Progressive Batarang| OR |Explosive Gel|",
+      "requires": "(|Progressive Batarang| OR |Explosive Gel|) AND |Subway Station Key|",
       "sort-key": "25"
     },
     {
@@ -1846,7 +1846,7 @@
         "Park Row Riddler",
         "Riddler"
       ],
-      "requires": "|Lvl Up - Shockwave Attack| AND (|Progressive Batarang| OR |Batclaw|)",
+      "requires": "|Lvl Up - Progressive Glide Attack| AND (|Progressive Batarang| OR |Batclaw|)",
       "sort-key": "21"
     },
     {
@@ -1911,12 +1911,12 @@
     },
     {
       "name": "Trophy 4-6 (PR: SW Behind Mines)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Park Row Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|Mine Detonator|",
       "sort-key": "28"
     },
     {
@@ -2176,7 +2176,7 @@
         "Park Row Riddler",
         "Riddler"
       ],
-      "requires": "|Lvl Up - Shockwave Attack|",
+      "requires": "|Lvl Up - Progressive Glide Attack|",
       "sort-key": "54"
     },
     {
@@ -2186,7 +2186,7 @@
         "Park Row Riddler",
         "Riddler"
       ],
-      "requires": "|Enigma Machine|",
+      "requires": "|Enigma Machine| AND |Mine Detonator|",
       "sort-key": "55"
     },
     {
@@ -2381,7 +2381,7 @@
     },
     {
       "name": "Trophy 3-3 (AM: SW Mine Maze)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Amusement Mile Riddler",
         "Riddler"
@@ -2711,7 +2711,7 @@
     },
     {
       "name": "Challenge Row 4 Complete (AM)",
-      "region": "PostMus",
+      "region": "Wonder",
       "category": [
         "Amusement Mile Riddler",
         "Riddler"
@@ -2896,7 +2896,7 @@
         "Industrial District Riddler",
         "Riddler"
       ],
-      "requires": "|Lvl Up - Shockwave Attack| AND (|Progressive Batarang| OR |Batclaw|)",
+      "requires": "|Lvl Up - Progressive Glide Attack| AND (|Progressive Batarang| OR |Batclaw|)",
       "sort-key": "17"
     },
     {
@@ -3226,7 +3226,7 @@
         "Industrial District Riddler",
         "Riddler"
       ],
-      "requires": "|Lvl Up - Shockwave Attack| AND |Mine Detonator| AND |Lvl Up - Cryptographic Range Amplifier|",
+      "requires": "|Lvl Up - Progressive Glide Attack| AND |Mine Detonator| AND |Lvl Up - Cryptographic Range Amplifier|",
       "sort-key": "50"
     },
     {
@@ -3251,7 +3251,7 @@
     },
     {
       "name": "Trophy 1-1 (Subway: Behind Vent Stairs Base)",
-      "region": "PostMus",
+      "region": "Museum",
       "category": [
         "Subway Riddler",
         "Riddler"
@@ -3306,12 +3306,12 @@
         "Subway Riddler",
         "Riddler"
       ],
-      "requires": "|Progressive Batarang:2|",
+      "requires": "|Progressive Batarang:2| AND |Subway Station Key|",
       "sort-key": "06"
     },
     {
       "name": "Trophy 2-1 (Subway: Hacking Ticket Booth)",
-      "region": "PostMus",
+      "region": "Museum",
       "category": [
         "Subway Riddler",
         "Riddler"
@@ -3411,7 +3411,7 @@
     },
     {
       "name": "Trophy 4-1 (Subway: Destructible Floor In Vent)",
-      "region": "PostMus",
+      "region": "Museum",
       "category": [
         "Subway Riddler",
         "Riddler"
@@ -3486,7 +3486,7 @@
         "Subway Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|Subway Station Key|",
       "sort-key": "24"
     },
     {
@@ -3506,7 +3506,7 @@
         "Subway Riddler",
         "Riddler"
       ],
-      "requires": "",
+      "requires": "|Subway Station Key|",
       "sort-key": "26"
     },
     {
@@ -4171,7 +4171,7 @@
     },
     {
       "name": "Trophy 5-4 (Museum: Iceberg Lounge Mines)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Museum Riddler",
         "Riddler"
@@ -4191,7 +4191,7 @@
     },
     {
       "name": "Riddle 1-2 (Museum: Iceberg Lounge Umbrella)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Museum Riddler",
         "Riddler"
@@ -4261,7 +4261,7 @@
     },
     {
       "name": "Challenge Row 1 Complete (Museum)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Museum Riddler",
         "Riddler"
@@ -4401,7 +4401,7 @@
     },
     {
       "name": "Trophy 2-5 (WC: Secret Corridor Mine)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Wonder City Riddler",
         "Riddler"
@@ -4779,11 +4779,11 @@
     },
     {
       "name": "Phys 2-4 (Counter 3 Projectiles)",
-      "region": "TB",
+      "region": "Overworld",
       "category": [
         "Physical Challenges"
       ],
-      "requires": "",
+      "requires": "|The Bowery Unlocked| OR (|Courthouse Key| AND |Church Key| AND |Steel Mill Key| AND |Batclaw| AND |Explosive Gel| AND |Progressive Batarang| AND |Remote Electrical Charge| AND |Smoke Pellet| AND |Park Row Unlocked| AND |Industrial District Unlocked|)",
       "sort-key": "12"
     },
     {
@@ -4801,7 +4801,7 @@
       "category": [
         "Physical Challenges"
       ],
-      "requires": "|Lvl Up - Shockwave Attack| AND |Lvl Up - Glide Boost Attack|",
+      "requires": "|Lvl Up - Progressive Glide Attack:2|",
       "sort-key": "14"
     },
     {
@@ -4828,7 +4828,7 @@
       "category": [
         "Physical Challenges"
       ],
-      "requires": "|Lvl Up - Shockwave Attack| AND |Lvl Up - Glide Boost Attack|",
+      "requires": "|Lvl Up - Progressive Glide Attack:2|",
       "sort-key": "42"
     },
     {
@@ -4941,7 +4941,7 @@
     },
     {
       "name": "Phys 4-4 (Reverse Batarang)",
-      "region": "PostWon",
+      "region": "Wonder",
       "category": [
         "Physical Challenges"
       ],
@@ -5044,7 +5044,7 @@
       "category": [
         "Physical Challenges"
       ],
-      "requires": "|Lvl Up - Sonic Batarang| AND |Lvl Up - Sonic Shock Batarang|",
+      "requires": "|Lvl Up - Progressive Sonic Batarang:2|",
       "sort-key": "38"
     },
     {
@@ -5067,11 +5067,11 @@
     },
     {
       "name": "Challenge Row 5 Complete (Phys)",
-      "region": "Wonder",
+      "region": "Freeze",
       "category": [
         "Physical Challenges"
       ],
-      "requires": "|Lvl Up - Sonic Batarang| AND |Lvl Up - Sonic Shock Batarang| AND |Lvl Up - Disruptor - Firearm Jammer|",
+      "requires": "|Lvl Up - Progressive Sonic Batarang:2| AND |Lvl Up - Disruptor - Firearm Jammer| AND |Lvl Up - Batclaw Disarm|",
       "sort-key": "45"
     }
   ]

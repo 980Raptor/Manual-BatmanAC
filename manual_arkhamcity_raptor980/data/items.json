@@ -106,72 +106,24 @@
       "useful": true
     },
     {
-      "count": 1,
-      "name": "Lvl Up - Shockwave Attack",
+      "count": "2",
+      "name": "Lvl Up - Progressive Glide Attack",
       "category": [
         "Level Up"
       ],
       "progression": true
     },
     {
-      "count": 1,
-      "name": "Lvl Up - Glide Boost Attack",
-      "category": [
-        "Level Up"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - Special Combo Bat Swarm",
+      "count": "3",
+      "name": "Lvl Up - Progressive Special Combo Move",
       "category": [
         "Level Up"
       ],
       "useful": true
     },
     {
-      "count": 1,
-      "name": "Lvl Up - Special Combo Multiple Takedown",
-      "category": [
-        "Level Up"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - Special Combo Disarm and Destroy",
-      "category": [
-        "Level Up"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - Critical Strikes",
-      "category": [
-        "Level Up"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - Special Combo Boost",
-      "category": [
-        "Level Up"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - FreeFlow Focus",
-      "category": [
-        "Level Up"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - FreeFlow Power Gadgets",
+      "count": "4",
+      "name": "Lvl Up - Progressive Freeflow",
       "category": [
         "Level Up"
       ],
@@ -186,16 +138,8 @@
       "progression": true
     },
     {
-      "count": 1,
-      "name": "Lvl Up - Sonic Batarang",
-      "category": [
-        "Level Up"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lvl Up - Sonic Shock Batarang",
+      "count": "2",
+      "name": "Lvl Up - Progressive Sonic Batarang",
       "category": [
         "Level Up"
       ],
@@ -367,6 +311,14 @@
     {
       "count": 1,
       "name": "Tyger Codes",
+      "category": [
+        "Keys"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Monarch Theater Key",
       "category": [
         "Keys"
       ],
